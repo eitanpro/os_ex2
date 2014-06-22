@@ -9,7 +9,7 @@ $ gcc -o a.out ex2.c && ./a.out 30
 and you will have 30 seconds to win the game
 
 love it?
-tell your friend!
+tell your friends!
 
 yours,
 @eitanpro
