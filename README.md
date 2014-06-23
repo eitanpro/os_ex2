@@ -2,7 +2,7 @@
 
 ### _What do you need to download?_
 
-download: `ex2.c`, `ex2_inp.c` and `ex2_upd.c`
+download: `ex2.c`, `ex2_inp.c` and `ex2_upd.c`.
 put the files in the same folder and execute from terminal:
 - `$ gcc -o ex2_inp.out ex2_inp.c`
 - `$ gcc -o ex2_inp.out ex2_inp.c`
