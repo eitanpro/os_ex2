@@ -18,7 +18,7 @@ and you will have `30` seconds to win the game
 - `a` - left
 - `s` - start new board
 
-love it?
+love it?<br>
 tell your friends!
 
 yours,<br>
